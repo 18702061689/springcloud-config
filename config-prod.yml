@@ -1,1 +1,2 @@
-dev-prod
+config:
+  info: "dev breach,springcloud-config/config-prod.yml version=1"
