@@ -1,1 +1,2 @@
-dev-test
+config:
+  info: "dev breach,springcloud-config/config-test.yml version=1"
