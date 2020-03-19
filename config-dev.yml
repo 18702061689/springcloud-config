@@ -1,1 +1,2 @@
-1111
+config:
+  info: "master breach,springcloud-config/config-dev.yml version=1"
